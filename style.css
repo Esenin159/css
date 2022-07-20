@@ -1,0 +1,91 @@
+.box{max-width: 40%;
+    margin:left;
+    padding:5px ;}
+
+form{padding:0 0 0 10 ;} 
+
+body{background:rgba(253, 245, 230, 0.395);
+    font-size: 15px;
+    font-weight: normal;
+    font-family:cursive;
+    margin:5px;
+ /* font: normal 16px cursive; */}
+ 
+a{color: hsla(0, 0%, 0%, 0.789);
+    text-decoration: none;}
+
+a:hover{text-decoration: underline;}
+
+.marsik{width: 250px;
+    border-radius:100px; 
+    box-shadow: 11px 9px 13px 3px rgb(40 62 72 / 55%);}
+
+.text1{padding:0 0 20 0 ;
+    display: flex;
+    color:black;
+    text-decoration: underline;
+    align-items: center}
+
+@media(max-width:800px){
+.text1{display: block;}}    
+
+h2{padding: 0 0 0 20;} 
+
+h4{margin: 5px;}  
+
+.box1{padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin: 7px;
+    padding: 10px;}
+
+.spisok1{padding:0 20px ;}
+
+.spisok2{padding:0 20px;}
+
+.spisok3{padding:0 20px;}
+
+
+.bg-palegreen{background:#98fb984a;}
+
+.bg-pink{background:#dda0dd7c;}
+
+.bg-orchid{background:#391dd56d;}
+
+.bg-tomato{background:#ff634788;}
+
+.bg-moccasin{background:#ffe4b5d1;}
+
+.bg-blue{background:#eaff0073 ;}
+
+.box1 h4{margin-bottom: 10px;}
+
+.tablica{width: 100%;}
+
+.contact1 label{display: block;
+    font-size: 20px;}
+
+.contact1 textarea,    
+.contact1 input{background: transparent;
+    width: 200px;
+    padding: 10 10px;
+    font-family:cursive;}     
+  
+.myu{padding: 20px;}
+
+input{padding: 15px;
+    border: none;
+    font-family: cursive;
+    background: rgb(146, 146, 146); 
+    cursor: pointer;}    
+    
+
+
+
+    
+    
+
+     
+
+
+
